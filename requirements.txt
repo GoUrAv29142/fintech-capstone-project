@@ -1,5 +1,3 @@
-# fintech-capstone-project
-Fintech Data Analytics Capstone Project
 pandas
 numpy
 matplotlib
